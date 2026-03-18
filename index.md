@@ -1,8 +1,8 @@
-# Privacy Policy - Dart Companion
+# Privacy Policy - DartRise
 
 Last updated: March 2, 2026
 
-This Privacy Policy explains how Dart Companion ("the App", "we", "us") handles information when you use the mobile application.
+This Privacy Policy explains how DartRise ("the App", "we", "us") handles information when you use the mobile application.
 
 ## 1. Data We Collect
 
